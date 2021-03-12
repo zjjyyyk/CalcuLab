@@ -50,7 +50,7 @@ class MyUi(QMainWindow):
         self.fpath = 'history.txt'
 
         # 定时器初始化
-        self.timeLimit = 5
+        self.timeLimit = 30
         self.timer = QTimer(self)
         self.timer.timeout.connect(self.on_timer_timeout)
         self.currentTime = self.timeLimit

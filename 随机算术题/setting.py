@@ -52,5 +52,4 @@ class Setting(QWidget):
 
     # 重写关闭事件：发射关闭信号以便让主窗口知道自己关闭了
     def closeEvent(self, QCloseEvent):
-        print(self.difficultyValue, self.timeLimitValue, self.mistakeBatchSizeValue)
         self._close_signal.emit()
