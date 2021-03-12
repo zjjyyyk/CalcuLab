@@ -13,4 +13,8 @@
   >由于代码缺乏错误处理，很容易出现bug。~~如果你看不下去了，可以考虑训练一下你的debug能力。~~(逃)
   
   ### 部分截图
+  ![截图1](https://github.com/zjjyyyk/CalcuLab/blob/main/ScreenShot/%E6%88%AA%E5%9B%BE1.png)
+  ![截图2](https://github.com/zjjyyyk/CalcuLab/blob/main/ScreenShot/%E6%88%AA%E5%9B%BE2.png)
+
+
 
